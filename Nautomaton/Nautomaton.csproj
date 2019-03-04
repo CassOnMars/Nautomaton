@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SignAssembly>false</SignAssembly>
+    <PackageLicenseUrl>https://github.com/doctorless/Nautomaton/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
